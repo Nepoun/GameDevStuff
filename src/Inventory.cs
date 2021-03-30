@@ -104,7 +104,7 @@ public class Inventory : ScriptableObject
         }
         else
         {
-
+            //#TODO
         }
         return SelectedSlot;
     }
